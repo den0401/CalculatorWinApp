@@ -1,0 +1,5 @@
+.gitignore
+**/Log/**
+**/bin/**
+**/obj/**
+**/.vs/**
